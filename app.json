@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "4.1",
+  "versionCode": 7,
+  "versionName": "4.3",
   "apkUrl": "https://github.com/SSTC1001/uzm-ders/releases/latest/download/UZM.apk",
-  "notes": "Notlar ekranı: açıklanan notlar artık sınav türüne göre (Vize 1, Vize 2, Final, Bütünleme) ayrı ayrı gösteriliyor.",
+  "notes": "Daha hızlı ve akıcı uygulama; adı UZM oldu. Yemek menüsü ve akademik takvim uygulama içinde. Programda olmayan OBISIS derslerine gün, saat ve yüz yüze/online bilgisi eklenebilir. Selamlamada doğru ad gösteriliyor.",
   "mandatory": true
 }
