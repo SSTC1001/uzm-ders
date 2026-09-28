@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "4.3",
+  "versionCode": 8,
+  "versionName": "4.4",
   "apkUrl": "https://github.com/SSTC1001/uzm-ders/releases/latest/download/UZM.apk",
-  "notes": "Daha hızlı ve akıcı uygulama; adı UZM oldu. Yemek menüsü ve akademik takvim uygulama içinde. Programda olmayan OBISIS derslerine gün, saat ve yüz yüze/online bilgisi eklenebilir. Selamlamada doğru ad gösteriliyor.",
+  "notes": "Programda olmayan derslere saat ekleme ekranı yenilendi: gün, standart ders saatleri ve yüz yüze/online seçimi tek dokunuşla.",
   "mandatory": true
 }
