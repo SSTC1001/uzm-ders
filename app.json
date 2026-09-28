@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "3.0",
+  "apkUrl": "https://github.com/SSTC1001/uzm-ders/releases/latest/download/UZM.apk",
+  "notes": "Kişisel ders programı, OBISIS duyuruları ve otomatik güncelleme.",
+  "mandatory": true
+}
