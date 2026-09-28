@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "4.4",
+  "versionCode": 9,
+  "versionName": "4.5",
   "apkUrl": "https://github.com/SSTC1001/uzm-ders/releases/latest/download/UZM.apk",
-  "notes": "Programda olmayan derslere saat ekleme ekranı yenilendi: gün, standart ders saatleri ve yüz yüze/online seçimi tek dokunuşla.",
+  "notes": "Akşamları da geri sayım: ertesi günün ilk dersine 12 saatten az kalınca Program sekmesindeki kartta dönen halka ve kalan süre görünür.",
   "mandatory": true
 }
