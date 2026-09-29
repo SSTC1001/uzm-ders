@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "4.5",
+  "versionCode": 10,
+  "versionName": "4.6",
   "apkUrl": "https://github.com/SSTC1001/uzm-ders/releases/latest/download/UZM.apk",
-  "notes": "Akşamları da geri sayım: ertesi günün ilk dersine 12 saatten az kalınca Program sekmesindeki kartta dönen halka ve kalan süre görünür.",
+  "notes": "Ana ekran widget'ları eklendi: sıradaki ders, yeni not, şu an derste, bugünün programı, GANO ve yemek menüsü. Widget seçme ekranında önizlemeleri görünür.",
   "mandatory": true
 }
