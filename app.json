@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "4.6",
+  "versionCode": 11,
+  "versionName": "4.7",
   "apkUrl": "https://github.com/SSTC1001/uzm-ders/releases/latest/download/UZM.apk",
-  "notes": "Ana ekran widget'ları eklendi: sıradaki ders, yeni not, şu an derste, bugünün programı, GANO ve yemek menüsü. Widget seçme ekranında önizlemeleri görünür.",
+  "notes": "Uygulama açıkken bulunan yeni notlar da bildiriliyor. Vize ve Final ortalaması ayrı gösteriliyor, \"G\" 0 sayılıyor. İzinler ilk açılışta doğrudan ilgili ayara yönlendirilerek isteniyor. Giriş ekranı ve not kontrolündeki hatalar düzeltildi.",
   "mandatory": true
 }
