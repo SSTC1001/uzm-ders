@@ -1,7 +1,7 @@
 {
   "versionCode": 12,
   "versionName": "4.8",
-  "apkUrl": "https://github.com/SSTC1001/uzm-ders/releases/latest/download/UZM.apk",
+  "apkUrl": "https://github.com/SSTC1001/uzm-ders/releases/download/v4.8/UZM.apk",
   "notes": "Not bildirimi tek bir aç/kapa anahtarı oldu, açıkken her 15 dakikada bir kontrol ediliyor. Kartta son kontrolün saati ve sonucu görünüyor. Bildirimde dersin güncel ortalaması da yazıyor ve dokununca o dersin kartı açılıyor.",
   "mandatory": true
 }
